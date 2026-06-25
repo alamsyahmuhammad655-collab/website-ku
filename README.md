@@ -91,8 +91,8 @@ button:hover {
 <body>
 
 <div class="container">
-    <h1>Hai NAMA_DIA 💕</h1>
-    <p>Dari: NAMA_KAMU 💌</p>
+    <h1>Hai AMMA 💕</h1>
+    <p>Dari: ALAM 💌</p>
 
     <p>Aku punya sesuatu buat kamu...</p>
 
